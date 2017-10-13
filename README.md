@@ -27,4 +27,5 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk)
 * [Suárez Jiménez, José Manuel](https://github.com/josemanuelsj98)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana)
+* [Zambrana Ruiz, German](https://github.com/GermanZR98)
 
